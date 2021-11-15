@@ -1,4 +1,8 @@
+import sys
+sys.path=['D:\\MyProjects\\StopDrugs\\bot1\\', 'D:\\MyProjects\\StopDrugs\\.pip\\', 'C:\\Program Files\\Python310\\python310.zip', 'C:\\Program Files\\Python310\\DLLs', 'C:\\Program Files\\Python310\\lib', 'C:\\Program Files\\Python310', 'C:\\Program Files\\Python310\\lib\\site-packages' ]
+
 import telebot
+
 import config
 import random
  
